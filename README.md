@@ -14,8 +14,8 @@
 <a href="https://developers.google.com/profile/u/felixcorderojr">
 <img src="https://img.shields.io/badge/Google.dev-grey?style=for-the-badge&logo=Google&logoColor=red" alt="Google Dev">
 </a>
-<a href="https://www.linkedin.com/in/felixcorderojr/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/wordpress-felix/)" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/wordpress-felix/)">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white]" alt="LinkedIn">
 </a>
 <a href="https://profiles.wordpress.org/felix2020a/">
 <img src="https://img.shields.io/badge/WordPress-%23a8a9ad?style=for-the-badge&logo=WordPress&logoColor=blue" alt="WordPress">
