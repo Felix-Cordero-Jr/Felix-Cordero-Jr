@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+  <rect width="1200" height="330" rx="28" fill="#0d1117"/>
+  <text x="54" y="60" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">AI Product Strategy</text>
+  <text x="54" y="90" fill="#d0d7de" font-family="Arial, Helvetica, sans-serif" font-size="16">AI should support the system architecture, users, operations, and maintainability — not exist as a disconnected feature.</text>
+
+  <rect x="54"  y="125" width="252" height="150" rx="20" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <rect x="330" y="125" width="252" height="150" rx="20" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <rect x="606" y="125" width="252" height="150" rx="20" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <rect x="882" y="125" width="264" height="150" rx="20" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+
+  <text x="180" y="165" text-anchor="middle" fill="#b5e200" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">USERS</text>
+  <text x="180" y="200" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="15">
+    <tspan x="180" dy="0">Guidance • Search</tspan>
+    <tspan x="180" dy="24">Assistance</tspan>
+  </text>
+
+  <text x="456" y="165" text-anchor="middle" fill="#b5e200" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">CLIENTS</text>
+  <text x="456" y="200" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="15">
+    <tspan x="456" dy="0">Reporting • Insights</tspan>
+    <tspan x="456" dy="24">Support</tspan>
+  </text>
+
+  <text x="732" y="165" text-anchor="middle" fill="#b5e200" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">ADMINS</text>
+  <text x="732" y="200" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="15">
+    <tspan x="732" dy="0">Operations • Monitoring</tspan>
+    <tspan x="732" dy="24">Workflows</tspan>
+  </text>
+
+  <text x="1014" y="165" text-anchor="middle" fill="#b5e200" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">DEVELOPERS</text>
+  <text x="1014" y="200" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="15">
+    <tspan x="1014" dy="0">Documentation • Diagnostics</tspan>
+    <tspan x="1014" dy="24">Maintenance</tspan>
+  </text>
+
+  <text x="600" y="307" text-anchor="middle" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="14">
+    Permissions • Privacy • Approved Data Sources • Security Controls • Human Oversight
+  </text>
+</svg>
