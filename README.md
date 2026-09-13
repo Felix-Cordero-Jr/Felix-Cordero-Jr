@@ -16,7 +16,7 @@
 
 <br>
 
-### [ABOUT](#felix-about) • [EXPERTISE](#felix-expertise) • [SYSTEMS](#felix-systems) • [WORKFLOW](#felix-workflow) • [STACK](#felix-stack) • [CONTACT](https://felixcordero.dev/#contact)
+### [ABOUT](#felix-about) • [EXPERTISE](#felix-expertise) • [SYSTEMS](#felix-systems) • [WORKFLOW](#felix-workflow) • [STACK](#felix-stack) • [CONTACT](#felix-contact)
 </div>
 
 ---
