@@ -311,87 +311,17 @@ Technology should solve a meaningful business problem.
 
 ## Current Development Direction
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Web Systems
-
-WordPress Architecture  
-Custom Plugin Development  
-Business Dashboards  
-Client Portals  
-Membership Platforms  
-Internal Business Tools
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Automation & Intelligence
-
-AI-Assisted Workflows  
-Workflow Automation  
-API Integrations  
-Reporting Architecture  
-Technical SEO Operations  
-Modular Software Systems
-
-</td>
-</tr>
-</table>
+<img src="./assets/current-development-direction.svg"
+     alt="Current Development Direction: Web Systems and Automation & Intelligence"
+     width="100%" />
 
 ---
 
 ## AI Product Strategy
 
-AI should be part of the system architecture, not simply added as a feature.
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### USERS
-
-Guidance  
-Search  
-Assistance
-
-</td>
-
-<td width="25%" align="center">
-
-### CLIENTS
-
-Reporting  
-Insights  
-Support
-
-</td>
-
-<td width="25%" align="center">
-
-### ADMINS
-
-Operations  
-Monitoring  
-Workflows
-
-</td>
-
-<td width="25%" align="center">
-
-### DEVELOPERS
-
-Documentation  
-Diagnostics  
-Maintenance
-
-</td>
-</tr>
-</table>
-
-AI access should remain bounded by permissions, privacy, approved data sources, security controls, and human oversight.
+<img src="./assets/ai-product-strategy.svg"
+     alt="AI Product Strategy for Users, Clients, Admins, and Developers"
+     width="100%" />
 
 ---
 
