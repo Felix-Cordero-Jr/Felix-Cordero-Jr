@@ -12,12 +12,11 @@
 
 [![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-felixcordero.dev-B5E200?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://felixcordero.dev/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/system-developer-felix/)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT_ME-181818?style=for-the-badge&logo=gmail&logoColor=B5E200)](mailto:info@felixcordero.dev)
+[![Contact](https://img.shields.io/badge/CONTACT-GET_IN_TOUCH-181818?style=for-the-badge&logo=googlechrome&logoColor=B5E200)](https://felixcordero.dev/#contact)
 
 <br>
 
-### [ABOUT](#felix-about) • [EXPERTISE](#felix-expertise) • [SYSTEMS](#felix-systems) • [WORKFLOW](#felix-workflow) • [STACK](#felix-stack) • [CONTACT](#felix-contact)
-
+### [ABOUT](#felix-about) • [EXPERTISE](#felix-expertise) • [SYSTEMS](#felix-systems) • [WORKFLOW](#felix-workflow) • [STACK](#felix-stack) • [CONTACT](https://felixcordero.dev/#contact)
 </div>
 
 ---
@@ -403,7 +402,7 @@ and improvements easier to execute.
 
 <br>
 
-[![Email](https://img.shields.io/badge/EMAIL-info@felixcordero.dev-181818?style=for-the-badge&logo=gmail&logoColor=B5E200)](mailto:info@felixcordero.dev)
+[![Contact](https://img.shields.io/badge/CONTACT-GET_IN_TOUCH-181818?style=for-the-badge&logo=googlechrome&logoColor=B5E200)](https://felixcordero.dev/#contact)
 
 </div>
 
