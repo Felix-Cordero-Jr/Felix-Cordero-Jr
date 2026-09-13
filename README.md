@@ -345,23 +345,24 @@ Public repositories focus on:
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Felix-Cordero-Jr&show_icons=true&hide_title=true&hide_border=true&theme=transparent"
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Felix-Cordero-Jr&theme=github_dark"
+width="47%"
 alt="Felix Cordero Jr. GitHub Statistics">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Cordero-Jr&layout=compact&hide_border=true&theme=transparent"
-alt="Felix Cordero Jr. Top Languages">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Felix-Cordero-Jr&theme=github_dark"
+width="47%"
+alt="Felix Cordero Jr. Repositories by Language">
 
 <br><br>
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felix-Cordero-Jr&theme=github_dark"
-width="90%"
+width="95%"
 alt="Felix Cordero Jr. GitHub Activity Overview">
 
 </div>
-
 ---
 
 ## Engineering Philosophy
