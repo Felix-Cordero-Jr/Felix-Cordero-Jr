@@ -77,128 +77,11 @@ Philippines
 
 <a id="felix-expertise"></a>
 
-## Core Expertise
-
-<table width="100%">
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### 🔍 Technical SEO
-
-**Visibility & Performance**
-
-Site Architecture  
-Indexing & Crawlability  
-Schema Markup  
-Core Web Vitals  
-Internal Linking  
-Metadata Optimization  
-Local SEO  
-Search Console  
-Performance Optimization
-
-</td>
-
-<td width="34%" align="center" valign="top">
-
-### ⚙️ WordPress Systems
-
-**Platforms & Operations**
-
-Custom Plugins  
-Custom Themes  
-Dashboards  
-Client Portals  
-Membership Systems  
-User Roles  
-WooCommerce  
-REST APIs  
-Custom Business Logic
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 🤖 AI & Automation
-
-**Workflows & Efficiency**
-
-API Workflows  
-Workflow Automation  
-Reporting Systems  
-Operational Dashboards  
-AI-Assisted Processes  
-Business Tooling  
-System Integrations  
-Process Optimization
-
-</td>
-
-</tr>
-</table>
+<img src="./assets/core-expertise.svg" alt="Core Expertise: Technical SEO, WordPress Systems, AI and Automation" width="100%" />
 
 ---
 
-## Business Impact
-
-<table width="100%">
-<tr>
-
-<td width="25%" align="center" valign="middle">
-
-### 🔎 VISIBILITY
-
-**Search & Discoverability**
-
-Technical SEO  
-Schema  
-Indexing  
-Search Performance
-
-</td>
-
-<td width="25%" align="center" valign="middle">
-
-### ⚡ PERFORMANCE
-
-**Speed & Stability**
-
-Core Web Vitals  
-WordPress Optimization  
-Mobile Performance  
-Technical Health
-
-</td>
-
-<td width="25%" align="center" valign="middle">
-
-### 🔄 WORKFLOWS
-
-**Automation & Operations**
-
-Automation  
-APIs  
-Reporting  
-Operations
-
-</td>
-
-<td width="25%" align="center" valign="middle">
-
-### 📈 GROWTH
-
-**Conversion & Business Value**
-
-Funnels  
-Lead Generation  
-Conversion UX  
-Business Systems
-
-</td>
-
-</tr>
-</table>
+<img src="./assets/business-impact.svg" alt="Business Impact: Visibility, Performance, Workflows, Growth" width="100%" />
 
 ---
 
@@ -210,7 +93,6 @@ Business Systems
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### SEO Operations System
@@ -250,11 +132,9 @@ Structured WordPress platform supporting:
 Provides a scalable foundation for subscription-based digital services.
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### Business Growth System
@@ -294,7 +174,6 @@ Professional platform connecting:
 Turns a portfolio into a structured professional and lead-generation system.
 
 </td>
-
 </tr>
 </table>
 
@@ -308,17 +187,11 @@ Turns a portfolio into a structured professional and lead-generation system.
 
 ```mermaid
 flowchart LR
-    A["🔎 DISCOVER<br/>Business & Technical Problem"]
-    --> B["📊 DIAGNOSE<br/>SEO • UX • Workflow • Performance"]
-
+    A["🔎 DISCOVER<br/>Business & Technical Problem"] --> B["📊 DIAGNOSE<br/>SEO • UX • Workflow • Performance"]
     B --> C["🏗 ARCHITECT<br/>System • Data • User Journey"]
-
     C --> D["💻 BUILD<br/>WordPress • APIs • Automation"]
-
     D --> E["✅ VALIDATE<br/>Test • Measure • Review"]
-
     E --> F["📈 IMPROVE<br/>Optimize • Maintain • Scale"]
-
     F -. "Continuous Improvement" .-> B
 ```
 
@@ -330,7 +203,6 @@ flowchart LR
 
 <table>
 <tr>
-
 <td align="center" width="33%">
 
 ### MAINTAINABILITY
@@ -354,11 +226,9 @@ Speed and technical health are part of the architecture.
 Access, data, and integrations require controlled design.
 
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" width="33%">
 
 ### SCALABILITY
@@ -382,7 +252,6 @@ Systems should be understandable and maintainable over time.
 Technology should solve a meaningful business problem.
 
 </td>
-
 </tr>
 </table>
 
@@ -416,21 +285,11 @@ Technology should solve a meaningful business problem.
 ![Custom Themes](https://img.shields.io/badge/Custom_Themes-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
-<br>
-
-![Dashboards](https://img.shields.io/badge/Dashboards-181818?style=flat-square&logo=wordpress&logoColor=B5E200)
-![Client Portals](https://img.shields.io/badge/Client_Portals-181818?style=flat-square&logo=wordpress&logoColor=B5E200)
-![Membership Systems](https://img.shields.io/badge/Membership_Systems-181818?style=flat-square&logo=wordpress&logoColor=B5E200)
-![User Roles](https://img.shields.io/badge/User_Roles-181818?style=flat-square&logo=wordpress&logoColor=B5E200)
-
 <br><br>
 
 ### Technical SEO & Performance
 
 ![Technical SEO](https://img.shields.io/badge/TECHNICAL_SEO-B5E200?style=for-the-badge&logo=google&logoColor=000000)
-
-<br>
-
 ![Schema](https://img.shields.io/badge/Schema_Markup-181818?style=flat-square&logo=schema.org&logoColor=B5E200)
 ![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-181818?style=flat-square&logo=googlechrome&logoColor=B5E200)
 ![Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -454,7 +313,6 @@ Technology should solve a meaningful business problem.
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### ⚙️ Web Systems
@@ -480,7 +338,6 @@ Technical SEO Operations
 Modular Software Systems
 
 </td>
-
 </tr>
 </table>
 
@@ -492,7 +349,6 @@ AI should be part of the system architecture, not simply added as a feature.
 
 <table>
 <tr>
-
 <td width="25%" align="center">
 
 ### USERS
@@ -532,7 +388,6 @@ Diagnostics
 Maintenance
 
 </td>
-
 </tr>
 </table>
 
@@ -560,13 +415,11 @@ Public repositories focus on:
 
 <div align="center">
 
-<img
-height="170"
+<img height="170"
 src="https://github-readme-stats.vercel.app/api?username=Felix-Cordero-Jr&show_icons=true&hide_title=true&hide_border=true&theme=transparent"
 alt="Felix Cordero Jr. GitHub Statistics">
 
-<img
-height="170"
+<img height="170"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Cordero-Jr&layout=compact&hide_border=true&theme=transparent"
 alt="Felix Cordero Jr. Top Languages">
 
@@ -613,11 +466,8 @@ and improvements easier to execute.
 <br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-felixcordero.dev-B5E200?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://felixcordero.dev/)
-
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect_with_Felix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/system-developer-felix/)
-
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-felix.web.developer-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felix.web.developer/)
-
 [![YouTube](https://img.shields.io/badge/YOUTUBE-Tech_Vibes_With_Felix-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@techvibeswithfelix)
 
 <br>
